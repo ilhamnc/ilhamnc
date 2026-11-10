@@ -83,7 +83,7 @@ backend components in its repository.
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/4c8eda/ilhamnc"
+    src="https://contribkit.app/user/ilhamnc.svg?palette=tokyonight&amp;shape=square&amp;background=%230d1117"
     alt="Ilham's GitHub contribution calendar"
     width="100%"
   />
