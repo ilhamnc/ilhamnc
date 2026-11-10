@@ -1,13 +1,13 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:0969DA&amp;height=180&amp;section=header&amp;text=Ilham%20Nur%20Cahyo&amp;fontSize=36&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Development%20%7C%20AI%20Integrations&amp;descAlignY=58&amp;descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:0969DA&amp;height=130&amp;section=header&amp;text=Ilham%20Nur%20Cahyo&amp;fontSize=32&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Backend%20Development%20%7C%20AI%20Integrations&amp;descAlignY=65&amp;descSize=16"
     alt="Ilham Nur Cahyo — Backend Development and AI Integrations"
     width="100%"
   />
 </p>
 
 <p align="center">
-  Informatics graduate from Universitas Ahmad Dahlan ·
+  Informatics graduate from Universitas Ahmad Dahlan<br>
   Bangkit Academy Cloud Computing alumnus
 </p>
 
@@ -16,59 +16,57 @@
   <a href="https://www.linkedin.com/in/ilham-nur-cahyo-9a6479288/">LinkedIn</a>
 </p>
 
-I'm interested in building backend systems that solve practical problems,
-from business operations to AI-powered applications. I'm currently looking
-for Backend Developer and Software Engineer opportunities.
+I build backend systems and applications that solve practical problems.
+My projects cover business operations, AI integrations, and recommendation
+systems. I'm currently looking for Backend Developer or Software Engineer
+opportunities.
 
-## Featured work
+## 🚀 Featured projects
 
-### 📦 [BusaKiloan ERP](https://github.com/ilhamnc/erp-busakiloan)
+### [BusaKiloan ERP](https://github.com/ilhamnc/erp-busakiloan)
 
-A business system for managing inventory, sales, receivables, cash flow,
-and profit reports.
+A business system for inventory, orders, receivables, cash flow, and
+profit reporting.
 
-`React` · `Node.js` · `Express` · `Prisma` · `PostgreSQL`
+**Tech:** React · Node.js · Express · Prisma · PostgreSQL  
+[View code](https://github.com/ilhamnc/erp-busakiloan) ·
+[Open app](https://erp-sistem.vercel.app/)
 
-[Repository](https://github.com/ilhamnc/erp-busakiloan) ·
-[Live app](https://erp-sistem.vercel.app/)
-
-### 🤖 [AiBot WhatsApp](https://github.com/ilhamnc/ai-bot-whatsapp)
+### [AiBot WhatsApp](https://github.com/ilhamnc/ai-bot-whatsapp)
 
 A WhatsApp group bot with AI responses, scheduled reminders, a management
 dashboard, conversation history, and encrypted local data.
 
-`Node.js` · `Baileys` · `Gemini API` · `SQLite`
+**Tech:** Node.js · Baileys · Gemini API · SQLite  
+[View code](https://github.com/ilhamnc/ai-bot-whatsapp)
 
-[Repository](https://github.com/ilhamnc/ai-bot-whatsapp)
-
-### 📱 [SmartRec](https://github.com/ilhamnc/SR-Smartphone)
+### [SmartRec](https://github.com/ilhamnc/SR-Smartphone)
 
 A smartphone recommendation app that matches user preferences with product
 specifications using TF-IDF and cosine similarity.
 
-`Python` · `Flask` · `scikit-learn`
+**Tech:** Python · Flask · scikit-learn  
+[View code](https://github.com/ilhamnc/SR-Smartphone) ·
+[Try the app](https://sr-smartphone.vercel.app/)
 
-[Repository](https://github.com/ilhamnc/SR-Smartphone) ·
-[Live app](https://sr-smartphone.vercel.app/)
+### [SehatinAja](https://github.com/ilhamnc/sehatinAja)
 
-### 💚 [SehatinAja](https://github.com/ilhamnc/sehatinAja)
+An Android project focused on diet and daily activity, with mobile and
+backend components in its repository.
 
-An Android project focused on diet and daily activity, with mobile,
-backend, and machine learning components in the repository.
+**Tech:** Kotlin · Node.js  
+[View code](https://github.com/ilhamnc/sehatinAja)
 
-`Kotlin` · `Node.js`
-
-[Repository](https://github.com/ilhamnc/sehatinAja)
-
-## GitHub activity
+## 🛠️ Languages and tools
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/4c8eda/ilhamnc"
-    alt="Ilham's GitHub contribution calendar"
-    width="100%"
+    src="https://skillicons.dev/icons?i=js,nodejs,express,python,flask,react,postgres,kotlin"
+    alt="JavaScript, Node.js, Express, Python, Flask, React, PostgreSQL, Kotlin"
   />
 </p>
+
+## 📊 GitHub activity
 
 <p align="center">
   <img
@@ -78,17 +76,28 @@ backend, and machine learning components in the repository.
   />
   <img
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilhamnc&amp;layout=compact&amp;theme=algolia"
-    alt="Languages found across Ilham's repositories"
+    alt="Languages across Ilham's GitHub repositories"
     height="165"
   />
 </p>
 
-<sub>Language percentages reflect repository files, not proficiency levels.</sub>
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/4c8eda/ilhamnc"
+    alt="Ilham's GitHub contribution calendar"
+    width="100%"
+  />
+</p>
 
-## Explore all repositories
+<sub>Language percentages describe repository files; they do not measure proficiency.</sub>
+
+## 📂 Explore all projects
+
+My public projects span business applications, AI integrations, a
+recommendation system, an Android app, and earlier programming coursework.
 
 <details>
-<summary>See my 15 project repositories</summary>
+<summary>View all 15 project repositories</summary>
 
 ### Business apps and integrations
 
@@ -97,7 +106,7 @@ backend, and machine learning components in the repository.
 - [Kreditur](https://github.com/ilhamnc/kreditur)
 - [My Portfolio](https://github.com/ilhamnc/my-portofolio)
 
-### Recommendations and mobile
+### Recommendation and mobile
 
 - [SmartRec / SR-Smartphone](https://github.com/ilhamnc/SR-Smartphone)
 - [SehatinAja](https://github.com/ilhamnc/sehatinAja)
